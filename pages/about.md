@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This is a budding collection of photos from a through-hike from August 2023 as a first project practicing using GitHub.
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
